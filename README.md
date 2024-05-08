@@ -28,6 +28,7 @@ We now have a mapping of a study habit to the total effectiveness across all the
 So, we will go through each habit, and divide the total effectiveness by the number of students who used the habit. Finally, we will sort it so that the highest average effectiveness comes first and the lowest average effectiveness comes last.
 
 4. Output the Results
+   
 For the last step, we are just going to output the top 3 study habits. This time, we will use the for statement to print the first three of the sorted habits along with each of their effectiveness.
 
 Reference
